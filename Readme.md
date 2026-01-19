@@ -97,7 +97,6 @@ This section provides direct access to:
 
 ---
 
-## 📁 Project Structure
 
 Title: Business Portfolio Website – SK Innovations (Satish)
 1. Introduction
