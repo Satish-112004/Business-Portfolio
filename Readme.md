@@ -99,3 +99,61 @@ This section provides direct access to:
 
 ## 📁 Project Structure
 
+Title: Business Portfolio Website – SK Innovations (Satish)
+1. Introduction
+
+This project is a responsive business portfolio website designed for SK Innovations, created to showcase professional services, projects, pricing plans, and contact details in a modern and attractive way. The main purpose of this website is to build trust with clients and provide a clean digital presence for business collaborations. It is a single-page website with smooth navigation to different sections.
+
+2. Objective of the Project
+
+The objective of this project is to:
+
+Design a professional business portfolio website using HTML, CSS, and JavaScript
+
+Provide a clear overview of business services and work samples
+
+Allow users to contact and submit feedback through a form
+
+Apply modern UI design and responsive layout for all devices
+
+3. Features of the Website
+
+The website includes the following major sections:
+
+Home (Hero Section): Displays name, tagline, and business identity with call-to-action buttons.
+
+About Section: Describes mindset, leadership qualities, and business approach.
+
+Services Section: Highlights key services like software development, AI-driven solutions, and consulting.
+
+Projects Section: Shows sample project-style cards and provides profile links (GitHub, LinkedIn, Instagram).
+
+Team Section: Represents the team structure and working values.
+
+Pricing Section: Displays three pricing packages for different client requirements.
+
+Social Section: Quick buttons for social connectivity.
+
+Contact Section: Displays contact details and includes a Feedback Form.
+
+4. Technologies Used
+
+HTML5: Used for creating the structure and layout of the webpage.
+
+CSS3: Used for styling, modern UI effects, responsive design, grid layouts, hover effects, and animations.
+
+JavaScript: Used for interactivity like feedback form submission, validation handling, localStorage data saving, and scroll reveal animations.
+
+5. JavaScript Functionality
+
+The website contains interactive features such as:
+
+Feedback Form Submission: User feedback details (name, email, phone, message) are stored in localStorage.
+
+Success Message Display: Shows confirmation after feedback submission.
+
+Scroll Reveal Animation: Sections appear smoothly when scrolling using IntersectionObserver.
+
+6. Conclusion
+
+This Business Portfolio Website is a complete and professional web project that demonstrates skills in frontend web development. It follows a modern design approach, includes responsive layout, interactive form handling, and clean UI presentation. This project helps in representing SK Innovations as a premium and trustworthy business portfolio for clients and collaborations.
